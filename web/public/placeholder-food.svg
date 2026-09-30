@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="360" viewBox="0 0 640 360">
+  <rect width="640" height="360" fill="#f1f5f9"/>
+  <g fill="none" stroke="#94a3b8" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M200 210h240a120 120 0 0 1-240 0z" fill="#e2e8f0" stroke="#94a3b8"/>
+    <path d="M170 240h300"/>
+    <path d="M260 150c0-18 14-18 14-36M310 145c0-22 18-22 18-44M360 150c0-18 14-18 14-36"/>
+  </g>
+  <text x="320" y="316" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#94a3b8" text-anchor="middle">No photo</text>
+</svg>
